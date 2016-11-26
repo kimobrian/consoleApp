@@ -28,7 +28,7 @@ A simple console App in python using docopt
  
  ```
  add <numberA> <numberB> e.g add 5 59
- sum <numberA> <numberB> e.g sum 23 56
+ sub <numberA> <numberB> e.g sum 23 56
  div <numberA> <numberB> e.g div 85 5
  multi <numberA> <numberB> e.g multi 21 40
 
